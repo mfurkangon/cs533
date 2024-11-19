@@ -1,0 +1,7 @@
+pandas # For data manipulation
+fasttext # For downloading and using pretrained Fasttext models
+gensim # For training and fine-tuning Fasttext models
+numpy # For numerical computing
+#sklearn # For machine learning tasks (Deprecated use scikit-learn)
+scikit-learn # For machine learning tasks
+rank_bm25 # For calculating BM25 scores
